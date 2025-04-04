@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://media.sketchfab.com/models/7f8606115d61468e805349afef8bf752/thumbnails/76cdb2a686a34fdeab3b1102ea3e3e61/blob.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+a {
+    text-align: center;
+    background-color: transparent;
+}
+
+#historia {
+    width: 50%;
+    margin: 10%;
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer  {
+    background-color: bisque;
+    margin-top: 10%;
+}
+
+.nav{
+    position: fixed;
+    margin-top: -7%;
+
+}
+.nav1{
+    position: fixed;
+    
+
+}
+
+
+.titulo{
+    margin: 7%;
+    text-align: center;
+}
+
+.carrusel {
+    width: 40%;
+}
